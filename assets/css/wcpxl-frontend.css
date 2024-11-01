@@ -1,0 +1,9 @@
+.fpix-sku {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+}
+.page-template-custom-thank-you .entry-title,
+.page-template-custom-thank-you .post-meta {
+    display: none;
+}
